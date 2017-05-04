@@ -8,9 +8,12 @@ h1 {
 	
 }
 h2 {
-	color:green;
+	color:cyan;
 }
 body {
 	background-color:#289bf2;
 	background-image: url("snoop.gif");
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-attachment: fixed;
 }
