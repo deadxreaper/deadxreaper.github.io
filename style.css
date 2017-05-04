@@ -2,13 +2,15 @@ p {
 	color:red;
 }
 h1 {
-	color:yellow;
-	background-color:purple;
+	color:blue;
+	background-color:yellow;
 	text-align:center;
-	margin-left: 10%;
-	margin-right: 10%;
 	
 }
 h2 {
-	color:cyan;
+	color:green;
+}
+body {
+	background-color:#289bf2;
+	background-image: url("snoop.gif");
 }
