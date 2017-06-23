@@ -5,6 +5,7 @@ h1 {
 	color:blue;
 	background-color:yellow;
 	text-align:center;
+	font-family: "Times New Roman", Times, serif;
 	
 }
 h2 {
@@ -12,10 +13,10 @@ h2 {
 }
 body {
 	background-color:#289bf2;
-	background-image: url("snoop.gif");
-	background-repeat: no-repeat;
-	background-position: right top;
+	background-image: url("mario.gif");
+	background-position: center;
 	background-attachment: fixed;
+	
 }
 ul {
     list-style-type: none;
